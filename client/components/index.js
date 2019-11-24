@@ -6,3 +6,8 @@
 export {default as Navbar} from './navbar'
 export {default as UserHome} from './user-home'
 export {Login, Signup} from './auth-form'
+export {default as AllLanguages} from './AllLanguages'
+export {default as LgOverview} from './LgOverview'
+export {default as Inventory} from './Inventory'
+export {default as Orthography} from './Orthography'
+export {default as Phonotactics} from './Phonotactics'

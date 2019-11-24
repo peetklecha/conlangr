@@ -2,3 +2,5 @@ public/bundle.js
 public/bundle.js.map
 package-lock.json
 package.json
+logic/phone/segments.js
+client/store/phone/segment_table.js
